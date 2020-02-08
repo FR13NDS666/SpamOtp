@@ -4,4 +4,4 @@
 ```apt install git <br>
 apt install python<br>
 pip install requests<br>
-git clone https://github.com/ridhoNoob/SpamOtp```
+git clone https://github.com/ridhoNoob/SpamOtp
