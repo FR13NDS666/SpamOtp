@@ -1,7 +1,7 @@
 # SpamOtp
 
-#Instalisasi
-```apt install git```
-```apt install python```
-```pip install requests```
+# Instalisasi <br>
+```apt install git```<br>
+```apt install python```<br>
+```pip install requests```<br>
 ```git clone https://github.com/ridhoNoob/SpamOtp```
