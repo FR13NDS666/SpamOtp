@@ -31,7 +31,7 @@ def banner():
  / /|  / /_/ /  __/ ____/ /_/ / / / / / /
 /_/ |_/\__, /\___/_/    \__,_/_/ /_/ /_/
       /____/\033[0m''')
-	print ('\tAuthor  : Ridho Gaming\n\tGithub  : github.com/ridhoNoob\n\tVersion : 1.0')
+	print ('\tAuthor  : Ridho Gaming\n\tGithub  : github.com/ridhoNoob\n\tTeam : Xiuz.\033[91mSec\033[0m\n\tVersion : 1.0')
 	print (R+'•'+W+'-'*45+R+'•'+W)
 pil = requests.get('http://auxcrewtbdrpg.com/spam.txt').text
 banner()
