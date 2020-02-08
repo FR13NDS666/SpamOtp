@@ -51,7 +51,7 @@ elif choice == '05' or choice == '5':
 elif choice == '99':
 	r = requests.get('http://auxcrewtbdrpg.com/update.txt')
 	if 'update' in str(r.text).lower():
-		os.system('cd ..;rm -rf SpamOtp; git clone https://github.com/ridhoNoob/SpamOtp')
+		os.system('git pull')
 	else:
 		exit('\033[0m[\033[94m*\033[0m] Already To Update')
 else:
