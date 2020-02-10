@@ -59,8 +59,9 @@ elif choice == '06' or choice == '6':
 elif choice == '07' or choice == '7':
 	import data.KitaBisa
 elif choice == '99':
+        update = '1.2'
 	r = requests.get('http://auxcrewtbdrpg.com/update.txt')
-	if 'update' in str(r.text).lower():
+	if update in str(r.text).lower():
 		os.system('cd ..;rm -rf SpamOtp; git clone https://github.com/ridhoNoob/SpamOtp')
 	else:
 		exit('\033[0m[\033[94m*\033[0m] Already To Update')
