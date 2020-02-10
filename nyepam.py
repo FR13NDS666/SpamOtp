@@ -24,7 +24,8 @@ else:
 	L = '\033[95m'
 	C = '\033[96m'
 try:
-	shutil.rmtree('data/__pycache__')
+    os.mkdir('data/__pycache__')
+    shutil.rmtree('data/__pycache__')
 except:
 	pass
 
