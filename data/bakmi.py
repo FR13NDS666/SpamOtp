@@ -1,3 +1,7 @@
+# author : ridho gaming
+# contact : facebook.com/tiaajja.tia.39
+# plis bang, jan di recode dong:(
+
 import os,sys,time,requests,mechanize
 from fake_useragent import UserAgent
 
