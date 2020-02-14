@@ -1,4 +1,6 @@
 # author : Ridho Gaming
+# jan di recode dong:(
+
 import os,json,shutil,requests,re,sys,time
 from bs4 import BeautifulSoup as sup
 from fake_useragent import UserAgent
@@ -283,7 +285,7 @@ while True:
 		elif pil == '99':
 			if '1.3' in str(update()):
 				os.system('cd ..;rm -rf SpamOtp;git clone https://github.com/ridhoNoob/SpamOtp;cd SpamOtp')
-				exit(f'{W}[{B}*{W}] {G}Done.{W} Silahkan Mulai Ulang\n')
+				exit(f'{W}[{B}*{W}] {G}Done.Silahkan Mulai Ulang\n{W}')
 			else:
 				exit(f'{W}[{B}*{W}] Already To Update')
 		else:
