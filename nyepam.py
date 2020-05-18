@@ -1,4 +1,4 @@
-# author : Ridho Gaming
+# author : FR13NDS
 # jan di recode dong:(
 
 import os,json,shutil,requests,re,sys,time
@@ -189,14 +189,25 @@ while True:
 	os.system('clear')
 	try:
 		print (f'''
-{G} ___                  {B}___  _
-{G}/ __|_ __  __ _ _ __ {B}/ _ \| |_ _ __
-{G}\__ \ '_ \/ _` | '  \{B} (_) |  _| '_ \\
-{G}|___/ .__/\__,_|_|_|_{B}\___/ \\__| .__/
-{G}    |_|              {B}         |_|{W}
-    {_R}[ {Y}Author {W}:{C} Ridho Gaming {_R}]
-    {_R}[ {Y}Github {W}: Github.com/ridhoNoob {_R}]
-    {_R}[ {Y}Team   {W}: Xiuz.{R}Sec {_R}]
+█████████
+█▄█████▄█ 
+█▼▼▼▼▼ _-_-__--_-__-_-_--__-
+█         _-_-_-_-_-_-_-_-_-_-
+█▲▲▲▲▲ _-_-__-_-_-_-_-_-_-_-
+█████████
+__██____██___
+
+
+               ╔════════════════╕
+               ║     WELCOME       │
+               ╠════════════════╡
+               ║    SPAM SMS       │
+               ╚════════════════●
+
+
+    {_R}[ {Y}Author {W}:{C} FR13NDS
+    {_R}[ {Y}Github {W}: github:FR13NDS666
+    {_R}[ {Y}Team   {W}: 
     {_R}[ {Y}Version {W}: 1.2 {_R}]{W}
 ------------------------------------------------
 {update()}
